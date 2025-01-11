@@ -154,18 +154,6 @@ cursor: pointer;
 
 /* Right section */
 
-.hero-right {
-  transition: background-color 3s, box-shadow 3s;
-  cursor: pointer;
-}
-.hero-right:hover {
-  background-color: rgba(6, 7, 12, 0.705);
-  box-shadow: 
-    0 0 20px rgb(6, 7, 12),
-    0 0 50px rgb(6, 7, 12),
-    0 0 100px rgb(6, 7, 12),
-    0 0 200px rgb(6, 7, 12);
-}
 
 /* Animations */
 @keyframes fadeIn {
